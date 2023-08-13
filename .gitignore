@@ -479,3 +479,4 @@ $RECYCLE.BIN/
 API/appsettings.json
 
 client/ssl
+API/appsettings.Development.json
